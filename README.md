@@ -2,7 +2,7 @@
 I'm a Full Stack Blockchain Developer & Architect experienced across leading ecosystems, including Ethereum, Solana, NEAR, FLOW, EOS, and WAX.
 
 ### Bio
-A Tech Entrepreneur having 5 years of experience in Software development - Data Structures, Crawlers, Web Development, but specialized in Blockchain protocols like EOSIO, EVM, Solana. I have developed several projects related to NFTs, DeFi, Web3 Gaming, and Crawlers.
+Tech Entrepreneur & Blockchain Engineer with 5+ years of experience in software development, data engineering, and Web3 ecosystems. 
 
 [![Hassan Raza Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/9tskid/)
 
